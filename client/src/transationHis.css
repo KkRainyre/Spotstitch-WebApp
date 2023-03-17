@@ -1,0 +1,74 @@
+.TransactionHistoryContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+
+.Wallet {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    color: #0059b3;
+    text-decoration: none;
+}
+
+.titleTH {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.bodyTH {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.leftboxTH {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-right: 50px;
+}
+
+.lboxtitle {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.lboxitem {
+    margin-bottom: 5px;
+    color: #0059b3;
+    text-decoration: none;
+}
+
+.rightboxTH {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.rboxtitleTH {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.rboxbodyTH {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+.rboxbodyTH div {
+    margin-bottom: 10px;
+}
+
+.rboxshowallTH {
+    color: #0059b3;
+    text-decoration: none;
+}
